@@ -1,3 +1,3 @@
 # HTML-CSS-JS
 
-My personel project
+My personel HTML-CSS-JS project
